@@ -1,7 +1,12 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
 *.egg-info/
 results/
+Tarefas Diogo.md
+CLAUDE.md
+.env.local
+.env

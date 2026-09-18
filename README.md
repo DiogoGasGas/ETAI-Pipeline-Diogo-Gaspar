@@ -112,4 +112,9 @@ You're free to improve on this structure or restructure it entirely -- what matt
 
 See `data/README.md`.
 
-## 20260662 Diogo Gaspar
+## Guy responsible for this
+Diogo Gaspar - 20260662
+
+## Weekly Conclusions
+
+Weekly conclusions like progress done, results analysis and other observations on `Weekly conclusions - Diogo Gaspar/`
