@@ -171,3 +171,5 @@ Diogo Gaspar - 20260662
 ## Weekly Conclusions
 
 Weekly conclusions like progress done, results analysis and other observations on `Weekly conclusions - Diogo Gaspar/`
+
+Current best model: Logistic Regression (week 4, cross-validation accuracy 0.672 ± 0.013). See `Week 4.md`.
